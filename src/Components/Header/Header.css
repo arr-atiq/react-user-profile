@@ -1,0 +1,17 @@
+.header-part{
+    text-align: center;
+}
+.header-part img{
+    width: 280px;
+}
+nav{
+    background-color: blueviolet;
+    line-height: 80px;
+    font-size: 25px;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: white;
+    font-weight: 300;
+}
