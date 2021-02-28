@@ -1,13 +1,16 @@
 .show-user{
     display: flex;
     width: 450px;
-    border-right: 1px solid lightgray;
-    border-bottom: 1px solid lightgray;
-    margin-bottom: 20px;
-    box-shadow: 5px 5px 10px lightgray;
+    border: none;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px 15px lightgray;
     line-height: 15px;
     box-sizing: border-box;
     padding: 20px;
+}
+.showInfo{
+    font-weight: 200;
 }
 .main-button{
     width: 120px;
