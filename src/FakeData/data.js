@@ -5,7 +5,7 @@ var userInformation = [
     "username": "Bret",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Mj_JXb8q3llyDoodeWRSyZjX_kDTQ9Ea9A&usqp=CAU",
     "email": "Sincere@april.biz",
-    "salary": "$1088",
+    "salary": 1088,
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -31,7 +31,7 @@ var userInformation = [
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziaaVEbTJnMr7sUeYLIH6rXALpbICqV87PA&usqp=CAU",
       "email": "Julianne.OConner@kory.org",
       "email": "Sincere@april.biz",
-      "salary": "$10950",
+      "salary": 10950,
       "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
@@ -57,7 +57,7 @@ var userInformation = [
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziaaVEbTJnMr7sUeYLIH6rXALpbICqV87PA&usqp=CAU",
       "email": "Julianne.OConner@kory.org",
       "email": "Shanna@melissa.tv",
-      "salary": "$90950",
+      "salary": 90950,
       "address": {
         "street": "Victor Plains",
         "suite": "Suite 879",
@@ -83,7 +83,7 @@ var userInformation = [
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziaaVEbTJnMr7sUeYLIH6rXALpbICqV87PA&usqp=CAU",
       "email": "Julianne.OConner@kory.org",
       "email": "Nathan@yesenia.net",
-      "salary": "$80950",
+      "salary": 80950,
       "address": {
         "street": "Douglas Extension",
         "suite": "Suite 847",
@@ -108,7 +108,7 @@ var userInformation = [
       "username": "Karianne",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziaaVEbTJnMr7sUeYLIH6rXALpbICqV87PA&usqp=CAU",
       "email": "Julianne.OConner@kory.org",
-      "salary": "$70950",
+      "salary": 70950,
       "address": {
         "street": "Hoeger Mall",
         "suite": "Apt. 692",
@@ -133,7 +133,7 @@ var userInformation = [
       "username": "Kamren",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxNA9NKF0Ay80lt-lpGFqK6lXWP2EEtKijGw&usqp=CAU",
       "email": "Lucio_Hettinger@annie.ca",
-      "salary": "$50950",
+      "salary": 50950,
       "address": {
         "street": "Skiles Walks",
         "suite": "Suite 351",
@@ -158,7 +158,7 @@ var userInformation = [
       "username": "Leopoldo_Corkery",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITjVOrB1krsiv21_94gwRCfqVVQVVIpkqTw&usqp=CAU",
       "email": "Karley_Dach@jasper.info",
-      "salary": "$9950",
+      "salary": 9950,
       "address": {
         "street": "Norberto Crossing",
         "suite": "Apt. 950",
@@ -183,7 +183,7 @@ var userInformation = [
       "username": "Elwyn.Skiles",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Hp0nFxjSKibgqCycF4M8KkSfWcJ2n8rzYg&usqp=CAU",
       "email": "Telly.Hoeger@billy.biz",
-      "salary": "$20950",
+      "salary": 20950,
       "address": {
         "street": "Rex Trail",
         "suite": "Suite 280",
@@ -208,7 +208,7 @@ var userInformation = [
       "username": "Maxime_Nienow",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8u4TFwKDJKEcQv29w0cM_BQDDBejsw8DcQ&usqp=CAU",
       "email": "Sherwood@rosamond.me",
-      "salary": "$55550",
+      "salary": 55550,
       "address": {
         "street": "Ellsworth Summit",
         "suite": "Suite 729",
@@ -233,7 +233,7 @@ var userInformation = [
       "username": "Delphine",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnLrnFUijL7q0o6eVmWVhS_oa_uhRPgytNw&usqp=CAU",
       "email": "Chaim_McDermott@dana.io",
-      "salary": "$40950",
+      "salary": 40950,
       "address": {
         "street": "Dayna Park",
         "suite": "Suite 449",
@@ -258,7 +258,7 @@ var userInformation = [
         "username": "Bret",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAQvHmDSOY-2DuaTLBmk--16DcnxffE41ig&usqp=CAU",
         "email": "Sincere@april.biz",
-        "salary": "$60950",
+        "salary": 60950,
         "address": {
           "street": "Kulas Light",
           "suite": "Apt. 556",
@@ -283,7 +283,7 @@ var userInformation = [
         "username": "Bret",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3hvV8OFHRyz-r_z_PVgwzWXdSVQ27Fkwgw&usqp=CAU",
         "email": "Sincere@april.biz",
-        "salary": "$5550",
+        "salary": 5550,
         "address": {
           "street": "Kulas Light",
           "suite": "Apt. 556",
@@ -308,7 +308,7 @@ var userInformation = [
         "username": "Bret",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Mj_JXb8q3llyDoodeWRSyZjX_kDTQ9Ea9A&usqp=CAU",
         "email": "Sincere@april.biz",
-        "salary": "$1088",
+        "salary": 1088,
         "address": {
           "street": "Kulas Light",
           "suite": "Apt. 556",
@@ -333,7 +333,7 @@ var userInformation = [
         "username": "Bret",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJxeOcFB6bMbainpmc1IQ2KD4hGxK_mqJ4g&usqp=CAU",
         "email": "Sincere@april.biz",
-        "salary": "$4850",
+        "salary": 4850,
         "address": {
           "street": "Kulas Light",
           "suite": "Apt. 556",
@@ -358,7 +358,7 @@ var userInformation = [
         "username": "Bret",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlK8bjcwqlmN6Mo9kHVi1ukj6lP94MsNB6g&usqp=CAU",
         "email": "Sincere@april.biz",
-        "salary": "$2235",
+        "salary": 2235,
         "address": {
           "street": "Kulas Light",
           "suite": "Apt. 556",
@@ -383,7 +383,7 @@ var userInformation = [
       "username": "Moriah.Stanton",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlK8bjcwqlmN6Mo9kHVi1ukj6lP94MsNB6g&usqp=CAU",
       "email": "Rey.Padberg@karina.biz",
-      "salary": "$36980",
+      "salary": 36980,
       "address": {
         "street": "Kattie Turnpike",
         "suite": "Suite 198",

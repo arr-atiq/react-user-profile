@@ -1,0 +1,9 @@
+.cart-user h2{
+    margin-left: 60px;
+    height: 30px;
+    padding: 20px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.cart-user h3{
+    margin-left: 60px;
+}

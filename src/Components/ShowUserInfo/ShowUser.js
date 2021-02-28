@@ -12,7 +12,9 @@ const ShowUser = (props) => {
                 <h4><FontAwesomeIcon icon={faEnvelope} /> {email}</h4>
                 <h4><FontAwesomeIcon icon={faPhoneAlt} /> {phone}</h4>
                 <h4><FontAwesomeIcon icon={faFunnelDollar} /> {salary}</h4>
-                <button className="main-button"><FontAwesomeIcon icon={faUserPlus} /> Add Me</button>
+                <button className="main-button"
+                onClick={()=>props.handleAddUser(props.getUser)}
+                ><FontAwesomeIcon icon={faUserPlus} /> Add Me</button>
             </div>
             <div className="imgPart">
                 <img src={image} alt=""/>
