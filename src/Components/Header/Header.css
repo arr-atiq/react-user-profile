@@ -8,6 +8,7 @@ nav{
     background-color: blueviolet;
     line-height: 80px;
     font-size: 25px;
+    margin-bottom: 20px;
 }
 nav a{
     text-decoration: none;
