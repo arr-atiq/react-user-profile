@@ -8,8 +8,8 @@ const UserInformation = () => {
     const first15 = fakeData;
     const [users, setUsers] = useState(first15);
     const [cart, setCart] = useState([]);
+
     const handleAddUser = (addUser) =>{
-        console.log('clicked me', addUser);
         const newCart = [...cart, addUser];
         setCart(newCart);
     }
